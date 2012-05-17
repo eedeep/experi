@@ -7,3 +7,4 @@ this is a change which was just made on master
 and adding something to do with the omniwidget
 
 some more notes about omniwidget
+and adding something to do with the omniwidget
